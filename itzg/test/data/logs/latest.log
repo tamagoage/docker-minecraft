@@ -1,1 +1,25 @@
 [11:16:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:16:26] [ServerMain/INFO]: Loaded 7 recipes
+[11:16:27] [ServerMain/INFO]: Loaded 1271 advancements
+[11:16:27] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[11:16:27] [Server thread/INFO]: Loading properties
+[11:16:27] [Server thread/INFO]: Default game type: SURVIVAL
+[11:16:27] [Server thread/INFO]: Generating keypair
+[11:16:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:16:28] [Server thread/INFO]: Using epoll channel type
+[11:16:28] [Server thread/INFO]: Preparing level "world"
+[11:16:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:16:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:16:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:16:31] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[11:16:31] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[11:16:31] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[11:16:31] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[11:16:32] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[11:16:32] [Worker-Main-7/INFO]: Preparing spawn area: 20%
+[11:16:33] [Worker-Main-15/INFO]: Preparing spawn area: 89%
+[11:16:33] [Server thread/INFO]: Time elapsed: 4047 ms
+[11:16:33] [Server thread/INFO]: Done (4.932s)! For help, type "help"
+[11:16:33] [Server thread/INFO]: Starting remote control listener
+[11:16:33] [Server thread/INFO]: Thread RCON Listener started
+[11:16:33] [Server thread/INFO]: RCON running on 0.0.0.0:25575
