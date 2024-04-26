@@ -23,3 +23,17 @@
 [11:16:33] [Server thread/INFO]: Starting remote control listener
 [11:16:33] [Server thread/INFO]: Thread RCON Listener started
 [11:16:33] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[11:41:02] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[11:41:02] [Server thread/INFO]: [Rcon: Stopping the server]
+[11:41:02] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[11:41:02] [Server thread/INFO]: Stopping server
+[11:41:02] [Server thread/INFO]: Saving players
+[11:41:02] [Server thread/INFO]: Saving worlds
+[11:41:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:41:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:41:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:41:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:41:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:41:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:41:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:41:04] [Server thread/INFO]: Thread RCON Listener stopped
